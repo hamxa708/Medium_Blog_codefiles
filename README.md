@@ -5,4 +5,5 @@ This repository contains code files for the articles I write on Medium.
 3) Solving Inverse Burgers' Equation with PINNS
 4) Log Linear Hybrid Battery Degradation Model (Exploratory Code)
 5) Log Linear Hybrid Battery Degradation Model (with statistical treatment)
-6) Simple PINN for predicting Battery Calendar Aging
+6) Simple PINN for predicting Battery Calendar Aging ( Battery degrad PINN-0 )
+7) Simple PINN for predicting Battery Aging at varying temperature ( Battery degrad PINN-01 )
